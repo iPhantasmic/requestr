@@ -16,3 +16,8 @@ should be.
 ```
 go get -u github.com/iPhantasmic/requestr
 ```
+
+## TODO:
+1. Abstract HTTP Auth
+2. Abstract POST request types
+3. Better Cookie handling
